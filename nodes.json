@@ -1,0 +1,20 @@
+{
+	"sseraas": {
+		"hostname": "sseraas",
+		"ip": "192.168.10.11",
+		"box": "geerlingguy/centos7",
+		"ram": "1024"
+	},
+	"ssedb": {
+		"hostname": "ssedb",
+		"ip": "192.168.10.12",
+		"box": "geerlingguy/centos7",
+		"ram": "1024"
+	},
+	"ssemaster": {
+		"hostname": "ssemaster",
+		"ip": "192.168.10.10",
+		"box": "geerlingguy/centos7",
+		"ram": "1024"
+	}
+}
